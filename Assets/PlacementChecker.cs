@@ -11,6 +11,7 @@ public class PlacementChecker : MonoBehaviour
         {
             cubeCount++; // Increment count when a cube enters
             CheckCompletion();
+            
         }
     }
 
